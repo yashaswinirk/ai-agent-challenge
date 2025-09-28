@@ -1,0 +1,8 @@
+pandas
+pytest 
+numpy 
+pdfminer.six 
+pdfplumber 
+google-generativeai
+python-dotenv
+scikit-learn
